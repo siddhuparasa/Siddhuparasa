@@ -33,14 +33,10 @@
 - Mobile-first and pixel-perfect design implementations  
 - UI Widgets, Dashboards, Portfolios, and Progressive Web Apps  
 
-#### ⚙️ Full-Stack (MERN)
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb)
-- Built full-stack solutions with authentication, routing, and database integration  
-- Used Express for RESTful APIs and MongoDB for scalable storage  
-- Deployed applications on Vercel, Netlify, Render with CI/CD integrations  
+
 
 #### 📈 Data Structures & Algorithms
-- Solved 50+ LeetCode problems with optimized solutions  
+- Solved 150+ LeetCode problems with optimized solutions  
 - Applied DSA concepts in real-time app development  
 - Comfortable with Arrays, Strings, Trees, Recursion, Dynamic Programming
 
