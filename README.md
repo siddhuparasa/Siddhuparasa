@@ -66,6 +66,9 @@ Python • RAG • FAISS • Hugging Face • Sentence Transformers • LLMs
 - Retrieved relevant context before generating responses
 - Built and deployed an interactive chatbot
 
+**Live Demo:**  
+https://psy-bot-livid.vercel.app/
+
 ---
 
 ## 🎬 SummariV — Multimodal RAG Video Question Answering
