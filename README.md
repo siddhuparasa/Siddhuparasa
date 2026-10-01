@@ -44,7 +44,7 @@ Python • LangChain • Generative AI • RAG • Streamlit
 **Highlights:**
 - Built an AI-assisted research workflow
 - Integrated LLM capabilities with retrieval-based processing
-- Worked with LangChain to structure the AI pipeline
+- Used LangChain to structure the AI pipeline
 - Developed and deployed the application using Streamlit
 
 **Live Demo:**  
@@ -97,7 +97,7 @@ Generative AI • LLM APIs • JavaScript • Web Development
 **Highlights:**
 - Integrated an LLM into a user-facing application
 - Worked with API-based AI integration
-- Designed an interactive interface around the AI functionality
+- Designed an interactive interface around AI functionality
 - Deployed the application for public access
 
 **Live Demo:**  
@@ -173,16 +173,26 @@ Python • Pandas • NumPy • Scikit-learn • Random Forest
 
 ## 🏥 MediDoc AI — AI Medical Documentation
 
-An AI-based medical documentation system designed to convert surgical or clinical audio into structured medical documentation.
+An AI-based system for automating surgical documentation by converting clinical and surgical audio into structured medical reports using NLP and clinical language models.
 
 **Tech Stack:**  
-Python • Whisper • ClinicalBERT • NLP • Generative AI
+Python • Whisper • Clinical Language Models • NLP • Generative AI
 
 **Highlights:**
-- Processes medical audio
-- Extracts relevant clinical information
-- Generates structured medical documentation
-- Developed as research work and presented at **ICCSMM 2025**
+- Processes surgical and clinical audio
+- Uses NLP and clinical language models to extract relevant information
+- Generates structured surgical documentation
+- Focuses on reducing repetitive manual documentation work
+- Developed as a research project and presented at **IEEE ACROSET 2026**
+
+**Research Paper:**  
+*MediDoc AI: Generative AI-Driven Automation of Surgical Documentation using NLP and Clinical Language Models*
+
+**Conference:**  
+IEEE International Conference on Advances in Computing Research on Science Engineering and Technology (ACROSET 2026)
+
+**Presented:**  
+12–13 September 2026 • Acropolis Institute of Technology and Research, Indore, India
 
 ---
 
@@ -207,7 +217,7 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost • Matplotlib • Seab
 
 ## ⏱️ TimeWidget — Web Time Utility
 
-A web application combining multiple time-related utilities.
+A web application combining multiple time-related utilities into a single interface.
 
 **Features:**
 - Digital Clock
@@ -262,15 +272,19 @@ Research work focused on multimodal video retrieval and evidence-grounded questi
 
 ### 🏥 MediDoc AI
 
-Research work focused on AI-assisted medical documentation using speech processing and NLP.
+**MediDoc AI: Generative AI-Driven Automation of Surgical Documentation using NLP and Clinical Language Models**
 
-**Presented at ICCSMM 2025**
+Research work focused on automating surgical documentation using speech processing, NLP, Generative AI, and clinical language models.
+
+**Presented at IEEE ACROSET 2026**
+
+**12–13 September 2026 • Indore, India**
 
 ---
 
 # 🏆 Achievements & Activities
 
-- Research Author — **MediDoc AI, ICCSMM 2025**
+- Research Author — **MediDoc AI, IEEE ACROSET 2026**
 - Research Author — **SummariV, ICVADV 2026**
 - Selected Participant — **ACM India Winter School on Explainable AI**
 - Member — **MLSA PVPSIT Web Development Team**
